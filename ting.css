@@ -140,6 +140,8 @@ h4{
     font-size: 65px;
     text-transform: capitalize;
     margin-bottom: 20px;
+    font-family: nunito;
+    font-weight: 900;
 
 }
 .about-text h5{
@@ -175,6 +177,8 @@ button:hover{
     background: #412323;
     width: 100%;
     padding: 100px 0px;
+    
+    
 }
 .title h2{
     color: #ffff;
@@ -182,6 +186,9 @@ button:hover{
     width: 1130px;
     margin: 30px auto;
     text-align: center;
+    text-decoration: dashed;
+    font-weight: bold;
+    font-family: nunito;
 }
 .box{
     display: flex;
@@ -200,6 +207,10 @@ button:hover{
     overflow:hidden;
     text-align: center;
 }
+.card:hover{
+    transform: rotateY(5deg)skewX(0deg)translateY(-3rem);
+    box-shadow: 2rem 2rem 2rem #000;
+  }
 .card i{
     font-size: 50px;
     display: block;
@@ -248,6 +259,8 @@ h5{
     font-weight: ;
     margin-bottom: 25px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: monospace;
+    letter-spacing: 0.05rem;
 }
 .contact-me .button-two{
     background-color: #f9004d;
