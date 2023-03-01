@@ -376,5 +376,8 @@ margin-top: 10rem;
 .navbar-link i{
     font-size: 4rem;
 }
+.navbar-link span{
+    font-size: 2rem;
+}
 }
 /*end of responsive*/
