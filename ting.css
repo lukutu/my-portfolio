@@ -339,3 +339,14 @@ footer p:nth-child(2){
     bottom: 35px;
     font-size: 14px; 
 }
+/*responsive*/
+@media(max-width:1400px){
+    html{
+        font-size: 50%;
+    }
+}
+.section-2{
+    height: auto;
+    padding: 10rem 0 12rem 0;
+}
+/*end of responsive*/
