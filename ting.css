@@ -369,4 +369,12 @@ margin-top: 10rem;
     height: 30rem;
 }
 }
+@media(max-width:900px){
+.navbar-link{
+    margin: 2rem;
+}
+.navbar-link i{
+    font-size: 4rem;
+}
+}
 /*end of responsive*/
