@@ -344,9 +344,14 @@ footer p:nth-child(2){
     html{
         font-size: 50%;
     }
-}
+
 .section-2{
     height: auto;
     padding: 10rem 0 12rem 0;
+}
+.cards-container{
+margin-top: 10rem;
+
+}
 }
 /*end of responsive*/
