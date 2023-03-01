@@ -380,4 +380,17 @@ margin-top: 10rem;
     font-size: 2rem;
 }
 }
+@media(max-width:700px){
+    section-heading{
+        font-size: 7rem;
+        margin: 0 10rem;
+    }
+.section-1-icons i{
+    font-size: 20rem;
+
+}
+.menu{
+    left: 2rem;
+}
+}
 /*end of responsive*/
