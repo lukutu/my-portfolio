@@ -10,6 +10,7 @@
   background-image: url(kev6.jpg);
     background-size: cover;
     background-position: center;
+    font-size: small;
 }
 nav{
     display: flex;
