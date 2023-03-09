@@ -176,7 +176,9 @@ button{
     transition: .4s;
     margin-top: 20px;
     
+    
 }
+
 button:hover{
     background-color: transparent;
     border: 2px solid #f9004d;
