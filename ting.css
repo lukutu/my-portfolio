@@ -7,10 +7,11 @@
 .hero{
     height: 100vh;
     width: 100%;
-  background-image: url(let.png);
+  background-image: url(kev6.jpg);
     background-size: cover;
     background-position: center;
     font-size: small;
+    background-color: #191919;
 }
 nav{
     display: flex;
